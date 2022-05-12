@@ -9,6 +9,9 @@ In this Project, the following are the tasks done:
 * Evaluvation
 * Deployment
 
-After the deployment stream lit:
+## After the deployment in streamlit:
 ![Screenshot (41)](https://user-images.githubusercontent.com/91714113/167983857-3555e3f7-d146-4cc4-8a99-b046ef7006a4.png)
+
+* The House Price has been predicted as per requirements.
+
 ![Screenshot (42)](https://user-images.githubusercontent.com/91714113/167983867-fc33eed8-d8cb-4674-a9ed-96b0bdbfdc9f.png)
